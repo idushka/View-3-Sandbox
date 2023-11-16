@@ -1,6 +1,7 @@
 {
   "events": [
     {
+      "id": 123,
       "name": "Leslie Alexander",
       "email": "leslie.alexander@example.com",
       "role": "Co-Founder / CEO",
@@ -9,6 +10,7 @@
       "lastSeenDateTime": "2023-01-23T13:23Z"
     },
     {
+      "id": 456,
       "name": "Michael Foster",
       "email": "michael.foster@example.com",
       "role": "Co-Founder / CTO",
@@ -17,6 +19,7 @@
       "lastSeenDateTime": "2023-01-23T13:23Z"
     },
     {
+      "id": 789,
       "name": "Dries Vincent",
       "email": "dries.vincent@example.com",
       "role": "Business Relations",
@@ -24,6 +27,7 @@
       "lastSeen": null
     },
     {
+      "id": 101,
       "name": "Lindsay Walton",
       "email": "lindsay.walton@example.com",
       "role": "Front-end Developer",
@@ -32,6 +36,7 @@
       "lastSeenDateTime": "2023-01-23T13:23Z"
     },
     {
+      "id": 111,
       "name": "Courtney Henry",
       "email": "courtney.henry@example.com",
       "role": "Designer",
